@@ -1,0 +1,6 @@
+{
+  "name": "SHREE SURYODAYA SECONDARY SCHOOL",
+  "description": "Official notice, announcement, and resource portal for Shree Suryodaya Secondary School with bilingual support (English/Nepali), offline PWA caching, push notifications, and admin management dashboard.",
+  "requestFramePermissions": ["notifications"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
